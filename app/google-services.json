@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744523868460",
+    "project_id": "rssreader-e0f45",
+    "storage_bucket": "rssreader-e0f45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744523868460:android:9f13b8e641a5ad03fce489",
+        "android_client_info": {
+          "package_name": "com.example.rssreadertest6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbYzDa8HHB0KuZ95yFhtlfR6qiu23RwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
